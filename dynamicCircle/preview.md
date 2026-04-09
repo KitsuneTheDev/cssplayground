@@ -1,1 +1,1 @@
-![preview]('/dynamicCircle/demo/DynamicCircle.gif');
+![preview]('./dynamicCircle/demo/DynamicCircle.gif');
