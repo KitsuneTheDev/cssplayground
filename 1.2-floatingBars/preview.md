@@ -1,1 +1,1 @@
-![preview](/floatingBars/demo/floatingBar.png)
+![preview](/1.2-floatingBars/demo/demoFloatingBar.png)

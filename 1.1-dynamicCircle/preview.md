@@ -1,1 +1,1 @@
-![preview](/dynamicCircle/demo/DynamicCircle.gif)
+![preview](/1.1-dynamicCircle/demo/DynamicCircle.gif)
